@@ -139,7 +139,7 @@ int main ()
 
   	int it = 0;
   	render2DTree(tree->root,viewer,window, it);
-  
+	
   	std::cout << "Test Search" << std::endl;
   	std::vector<int> nearby = tree->search({-6,7},3.0);
   	for(int index : nearby)

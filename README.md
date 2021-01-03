@@ -1,5 +1,7 @@
 ## Obstacle Detection Using LIDAR : Assignment - Sensor Fusion Nanodegree Course
 
+<img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
+
 ## Installation
 
 ### Ubuntu 
